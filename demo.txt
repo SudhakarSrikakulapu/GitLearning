@@ -1,1 +1,13 @@
 git hub basic commands
+
+git init: this command is used to establish the connection between local to global repository
+
+git git remote add origin https://github.com/SudhakarSrikakulapu/Gitlearning.git
+
+git fetch -v: this command is used to find out where to download the repository
+
+git commit -m "Any thing or any message"
+this command tells us that we need to store in local repository
+
+git add . :- it will push my files to staging area where the files cannot be edited.
+
